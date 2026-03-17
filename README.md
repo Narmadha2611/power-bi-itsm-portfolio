@@ -106,4 +106,4 @@ Power BI Desktop | DAX | Power Query | ServiceNow Data
 - 📌 Currently preparing: Microsoft PL-300 Power BI Data Analyst
 
 ```
-https://github.com/YOUR-USERNAME/power-bi-itsm-portfolio
+https://github.com/Narmadha2611/power-bi-itsm-portfolio
