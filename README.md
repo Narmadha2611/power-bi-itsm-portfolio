@@ -54,7 +54,5 @@
 - 🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
 - 🏅 Accenture Datacool — Data Analytics & Reporting
 
----
-*More dashboards coming soon — SLA Trend Report | Change Management KPI | Problem Management Analysis*
 ```
 https://github.com/Narmadha2611/power-bi-itsm-portfolio
