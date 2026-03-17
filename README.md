@@ -57,13 +57,4 @@
 ---
 *More dashboards coming soon — SLA Trend Report | Change Management KPI | Problem Management Analysis*
 ```
-
-4. Click **"Commit changes"** ✅
-
----
-
-## 🔗 Step 5: Copy Your Portfolio Link
-
-Your link will be:
-```
-https://github.com/YOUR-Narmadha2611/power-bi-itsm-portfolio
+https://github.com/Narmadha2611/power-bi-itsm-portfolio
