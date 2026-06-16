@@ -103,7 +103,7 @@ Power BI Desktop | DAX | Power Query | ServiceNow Data
 - 🏅 ITIL® 4 Foundation — IT Service Management (AXELOS)
 - 🏅 Microsoft Certified: Azure Fundamentals AZ-900 (Microsoft)
 - 🏅 Accenture Datacool — Data Analytics & Reporting
-- 📌 Currently preparing: Microsoft PL-300 Power BI Data Analyst
+-  🏅 Microsoft Certified: PL-300 Power BI Data Analyst
 
 ```
 https://github.com/Narmadha2611/power-bi-itsm-portfolio
